@@ -1,0 +1,142 @@
+/*----------color d5275a------*/
+.hotel-blog3 .single-blog-post .blog-content h4 a:hover,
+.hotel-testimonial3 .owl-prev,
+.hotel-testimonial3 .owl-next,
+.home3-facts .facts-common i,
+.hotel-room.v3 .single-room .price,
+.service-v3 .intro-common .intro-text h5 a:hover,
+.hotel-header3 .hotel-menu3 .menuzord-menu > li.active > a,
+.hotel-header3 .hotel-menu3 .menuzord-menu > li > a:hover,
+.hotel-header3 .topbar-right .search-area > button:hover,
+.home2-footer .footer-widget .contact-address p.web a,
+.home2-footer .footer-widget .copyright a,
+.footer15 .footer-widget .contact-area form > button:hover,
+.footer15 .contact-address .web > a,
+.footer15 .footer-widget .copyright a,
+.home2-cta .cta-content .cta-button:hover,
+.spa-feature .intro-common span.display-block,
+.spa-pricing .single-tbl.advanced .tbl-btn,
+.feature-section .single-feature h6 a:hover,
+.blog-details aside .archives ul li a:hover,
+.blog-details aside .input-group > button,
+.about-mission .single-mission i,
+.feature-section .single-feature i,
+.hotel-footer .main-footer .copyright a,
+.hotel-footer .footer-menu li a:hover,
+.hotel-footer .contact-address .web > a,
+.hotel-blog .single-blog-post h5 a:hover,
+.hotel-facts .facts-common i,
+.hotel-testimonial .author-comment::before,
+.hotel-video .video-content > a.venobox:hover,
+.hotel-room .single-room h5 a:hover,
+.check-availability ul li button[type="submit"]:hover,
+.hotel-header .menuzord-menu > li.active > a,
+.hotel-header .menuzord-menu > li > a:hover,
+input[type="submit"],
+button[type="submit"],
+button[type="button"],
+.btn-default,
+.color-bf9, 
+a {
+    color: #d5275a;
+}
+
+
+/*----------background d5275a------*/
+.hotel-blog3 .single-blog-post .blog-content .line,
+.hotel-testimonial3 .owl-prev:hover,
+.hotel-testimonial3 .owl-next:hover,
+.hotel-room.v3 .single-room .read-more:hover,
+.service-v3 .intro-common:hover span.display-block,
+.hotel-video.vrsn-2 .video-content > a.venobox:hover,
+.home2-cta .cta-content .cta-button,
+.hotel-header.vrsn-2 .menuzord > a.book-btn,
+.luxary-trip-contact .abform-area button:hover,
+.spa-pricing .single-tbl .tbl-btn:hover,
+.blog-details .comment-form .abform-area .abinput-group:before,
+.blog-details aside .newsletter .input-group > button:hover,
+.blog-details .dropcap-style1 span,
+.room-carousel .slick-active button,
+.scroll-top,
+.hotel-facts .facts-common span.line,
+span.divider,
+.section-title h2:before,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+.ui-state-highlight,
+.ui-widget-content .ui-state-highlight,
+.ui-widget-header .ui-state-highlight,
+.ui-datepicker .ui-datepicker-header,
+input[type="submit"]:hover,
+button[type="submit"]:hover,
+button[type="button"]:hover,
+.btn-default:hover,
+.bg-bf9{
+    background: #d5275a;
+}
+
+
+.solid-bg-btn,
+.hotel-room .single-room .read-more,
+.welcome-content a,
+.check-availability ul li button[type="submit"] {
+    background: #d5275a;
+}
+
+
+/*----------border color d5275a------*/
+.hotel-room.v3 .single-room .read-more:hover,
+.hotel-video.vrsn-2 .video-content > a.venobox:hover,
+.home2-cta .cta-content .cta-button,
+.spa-pricing .single-tbl .tbl-btn:hover,
+.spa-pricing .single-tbl.advanced .tbl-btn,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+.ui-state-highlight,
+.ui-widget-content .ui-state-highlight,
+.ui-widget-header .ui-state-highlight,
+.hotel-header .menuzord-menu > li.active > a,
+.hotel-header .menuzord-menu > li > a:hover,
+input[type="submit"],
+button[type="submit"],
+button[type="button"],
+.btn-default,
+.border-color-bf9 {
+    border-color: #d5275a;
+}
+
+
+.service-v3 .intro-common:hover span.display-block::before,
+.hotel-room.vrsn-2 .single-room,
+.hotel-room.list .single-room {
+    border-bottom-color: #d5275a;
+}
+.service-v3 .intro-common:hover span.display-block::after {
+    border-top-color: #d5275a;
+}
+
+
+/*-------dark versiion of this #d5275a color------*/
+.about-cta .cta-content a.btn-default:hover,
+.solid-bg-btn:before,
+.welcome-content a:before{
+    background: #b51f4a;
+}
+
+/*---transparent bg------*/
+.hotel-facts .facts-common {
+    background: rgba(213, 39, 90, 0.3);
+}
+
+.hotel-header3.transparent .hotel-menu3 .menuzord-menu > li.active > a,
+.hotel-header3.transparent .hotel-menu3 .menuzord-menu > li > a:hover,
+.color-fbc{
+    color: #f16d95;
+}
+
+.hotel-banner.v3 .hero-carousel {
+    border-color: #f16d95;
+}
+
+
+
